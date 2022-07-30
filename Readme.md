@@ -9,7 +9,7 @@ Clássico arquivo "Hello, World!".
 ## Demonstrando o código
 
 O código para fazer o "Hello, World" segue abaixo:
-```
+```c
 #include <stdio.h> // Biblioteca padrão da linguagem C, necessário para usar o comando printf()
 
 // Função principal com parâmetros argc e argv.
